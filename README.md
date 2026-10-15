@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student at **PES University** (B.Tech, 2025–2028), based in Belgaum, Karnataka, India. I completed a Diploma in CSE at KLE Society's CB Kore Polytechnic, Chikodi, graduating with a **9.58 CGPA**.
+I'm a Computer Science Engineering student at **PES University** (B.Tech, 2025–2028), based in Bengaluru, Karnataka, India. I completed a Diploma in CSE at KLE Society's CB Kore Polytechnic, Chikodi, graduating with a **9.58 CGPA**.
 
 I enjoy building clean, responsive web applications and have hands-on experience through internships in full-stack and front-end development, including at **Pranaksh Technologies LLP** and the **iStop Web Development Front-End Mentorship**.
 
