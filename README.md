@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dinesh Jadage 👋</h1>
+<h1 align="center">Hi, I'm Dinesh Ashok Jadage 👋</h1>
 
 <p align="center">
   Front-End & Full-Stack Web Developer · B.Tech CSE Student at PES University
